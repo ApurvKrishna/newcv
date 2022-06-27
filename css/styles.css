@@ -10,20 +10,24 @@ h1{
   color: #DFF6FF;
 }
 .name{
-  font-size: 280%;
+  font-size: 350%;
 }
 h2{
   font-family: 'Montserrat', sans-serif;
+  font-size: 250%;
 }
 h3{
   font-family: 'Montserrat', sans-serif;
+  font-size: 175%;
 }
 p{
   font-family: 'Montserrat', sans-serif;
+  font-size: 100%;
 
 }
 .p1{
     color: #DFF6FF;
+    font-size: 100%;
 }
 hr{
   border-style: dotted none none;
@@ -76,6 +80,7 @@ a:hover{
 }
 .p3{
   padding: 15px 0 0 0;
+  font-size: 0.50 rem;
 }
 
 .btn {
@@ -105,3 +110,4 @@ a:hover{
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
+
